@@ -1,0 +1,2 @@
+LINKS:
+	-https://refactoring.guru/design-patterns/cpp
